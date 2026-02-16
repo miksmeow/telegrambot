@@ -8,7 +8,7 @@ from threading import Thread
 
 # --- НАСТРОЙКИ ---
 BOT_TOKEN = "8594559077:AAFoKX-w7hpYDXkbHc3kTEcesO4vb5fW-nw"
-YOUR_DOMAIN = "https://https://zoophagous-leilah-telepuziki-8e2398a3.koyeb.app" # Обязательно HTTPS
+YOUR_DOMAIN = "https://zoophagous-leilah-telepuziki-8e2398a3.koyeb.app" # Обязательно HTTPS
 MY_ID = 7462192673  # Твой ID (чтобы бот знал кому слать логи)
 
 app = Flask(__name__)
